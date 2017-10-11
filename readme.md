@@ -3,7 +3,7 @@
 ## Machine Learning - Andrew Ng
 [机器学习-课程大纲](https://github.com/IACJ/Coursera-Outlines/blob/master/Machine%20Learning%20-%20Andrew%20Ng/Course_Outline.md) ： 含 11 周课程
 
-[机器学习-实验大纲](https://github.com/IACJ/Coursera-Outlines/blob/master/Machine%20Learning%20-%20Andrew%20Ng/Exp_Outline.md) ： 含 8 个实验（Matlab）
+[机器学习-实验大纲](https://github.com/IACJ/Coursera-Outlines/blob/master/Machine%20Learning%20-%20Andrew%20Ng/Exp_Outline.md) ： 含 8 个实验（Octave）
 
 ## Python - 南京大学
 

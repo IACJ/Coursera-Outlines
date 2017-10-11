@@ -104,6 +104,7 @@
     4. Using One Hot encodings
     5. Initialize with zeros and ones
 2. Building your first neural network in tensorflow
+
     0. Problem statement: SIGNS Dataset
     1. Create placeholders
     2. Initializing the parameters
